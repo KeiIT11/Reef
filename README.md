@@ -7,7 +7,7 @@ Also, think about it, wouldn't it be interesting to know how geniuses such as Ei
 
 Reef makes this kind of future feasible.
 
-#Problems that Reef can solve.
+# Problems that Reef can solve.
 Next, let me explain the problem that reef can solve.
 
 Reef can help people who are having trouble getting things done by using the Pomodoro Technique.
