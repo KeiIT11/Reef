@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81548811/229280144-08812768-d129-4359-bdc1-28983deb8582.png" alt="reef" width="50%">
-</p>
+<img src="https://user-images.githubusercontent.com/81548811/229280144-08812768-d129-4359-bdc1-28983deb8582.png" alt="reef" width="40%">  
+
 ## このプロジェクトについて
 Reefは「あなたの努力をブロックチェーンに刻むアプリ」です。  
 努力の内容が半永久的に保存されるので、あなたの努力内容が後世に残ります。  
