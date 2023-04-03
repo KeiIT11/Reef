@@ -30,12 +30,20 @@ flutter run
 ```
 
 ## 機能と使用技術（特徴を箇条書きなど）
-### 1. 記事機能
+### 1. タイマー機能
 
-### 2. 計画機能
-### 3. タイマー機能
-### 4. (記録機能）
+<img src="https://user-images.githubusercontent.com/81548811/229280272-a545c47c-d3fc-4abb-a88a-0c979bcf79b3.PNG" alt="timer" width="20%">
 
-## こだわりと苦労した点
+タスクを選択し、勉強時間を記録しながら勉強できます。ポモドーロテクニックで勉強を効率よく進めることができます。
 
-## 今後のアップデート予定
+### 2. ブロックチェーン保存機能
+
+<img src="https://user-images.githubusercontent.com/81548811/229280274-1af5b461-0cda-4895-8337-0aecc634cecf.PNG" alt="store data" width="20%">
+
+EthereumのGoerliテストネットワークに、勉強名と勉強時間を文字列で保存します。Dartで作成した内容をSolidityに変換する方法を工夫しました。配列で保存すると、ガス代が高くなってしまうため、文字列に変換して保存した。
+
+### 3. 検索機能
+
+<img src="https://user-images.githubusercontent.com/81548811/229280279-f70c39d5-2e88-4067-815d-a66b36f3e533.PNG" alt="look at" width="20%">
+
+Metamaskの
